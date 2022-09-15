@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val x: Int = 30
-        val y: Int = 40
+        val y: Int = 4
         val z: Int = 5
         val volume = x * y * z
 
