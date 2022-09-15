@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val x: Int = 30
+        val x: Int = 3
         val y: Int = 4
         val z: Int = 5
         val volume = x * y * z
